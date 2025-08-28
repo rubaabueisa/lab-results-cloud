@@ -13,7 +13,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lab-results-cloud.git
+   git clone https://github.com/rubaabueisa/lab-results-cloud.git
 Navigate to the project folder:
 
 bash
